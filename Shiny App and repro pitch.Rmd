@@ -26,7 +26,7 @@ Using PageUp and PageDown keys all the slides can be traversed.
 
 Click the Below Link for the Application.
 
-https://safasoro.shinyapps.io/PricePredictorForDiamonds/
+https://safasoro.shinyapps.io/Safasoro/?_ga=2.211882516.1091597745.1594021350-2011083894.1594021350 
 
 Click the link below for compiled project files on gitub repo.
 
